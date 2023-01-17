@@ -63,6 +63,12 @@ Vue CLI v5.0.8
 
 ```
 
+## Agregamos los paquetes router y axios
+```
+npm i vue-router@3.5.3
+npm i axios@0.26.1
+
+```
 
 
 ## Project setup
