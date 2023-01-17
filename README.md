@@ -1,5 +1,11 @@
 # appvue
 
+Servidor de prueba:
+- Debian 10
+- node v16.19.0
+- npm 9.3.0
+
+
 ## Project setup
 ```
 npm install
